@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JenkinsSwift_Tests' do
+  pod 'JenkinsSwift', :path => '../'
+  
+  
+end

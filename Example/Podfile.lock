@@ -1,0 +1,16 @@
+PODS:
+  - JenkinsSwift (0.1.0)
+
+DEPENDENCIES:
+  - JenkinsSwift (from `../`)
+
+EXTERNAL SOURCES:
+  JenkinsSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JenkinsSwift: e124df60125631688d61d029c577600f3e3a4f93
+
+PODFILE CHECKSUM: d84b6768fe8260a27f33710e85176d2e282443c9
+
+COCOAPODS: 1.5.3

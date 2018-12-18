@@ -22,7 +22,6 @@ Jenkins API access built on Swift.
                        DESC
 
   s.homepage         = 'https://github.com/iheartradio/Jenkins-swift'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'adibcontractorcc' => 'adibcontractor@iheartmedia.com' }
   s.source           = { :git => 'https://github.com/iheartradio/Jenkins-swift.git', :tag => s.version.to_s }
